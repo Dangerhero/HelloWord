@@ -1,2 +1,4 @@
 # HelloWord
-just another repository
+Hi humans
+
+I like code.
